@@ -2,7 +2,7 @@
 title: Monero Ecosystem
 description: General management, info and governance of the Ecosystem project
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://monero-ecosystem.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://moneroecosystem.org" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Monero Ecosystem
