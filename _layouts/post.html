@@ -5,16 +5,17 @@
         {% include svg-icons.html %}
         {% include header-post.html %}
         <section class="post">
-
+            
             <article role="article" id="post" class="post-content" itemprop="articleBody">
+                {% if page.image %}
+                <img src={{page.image}} alt="{{page.title}}">
+                {% endif %}
                 {{ content }}
+                <p>For more info, please check the original <a href="https://github.com/monero-ecosystem/{{page.repo_name}}">repository page</a></p>
             </article>
 
             {% include share.html %}
             {% include author.html %}
-            {% if page.comments != false %} 
-                {% include comments.html %}
-            {% endif %}
             {% include footer.html %}
         </section>
     </body>

@@ -4,6 +4,7 @@ layout: default
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <img class="img-home" src="{{site.baseurl}}/assets/img/blog-image.png" alt="Monero Ecosystem logo">
+    <div class="text-center" style="margin: 2rem;"><h2><a style="text-decoration: none;color: #808080;" href="/join-us/index.html">Have awesome Monero project to join?</a></h2></div>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
@@ -29,5 +30,6 @@ layout: default
             </div>
         </article>
     {% endfor %}
+    <div class="text-center"><h4>Warning: All repositories in this project are maintained by community members and not by the Monero Core Team. Make your own researches before using any projects stored in these repositories.</h4></div>
     </div>
 </main>
