@@ -47,4 +47,4 @@ tags:
 - You can find your `maintainer_uid` [here](https://caius.github.io/github_id/). This is for showing you avatars in the post.
 - All the avaliable `main-class` are in the [category](https://github.com/monero-ecosystem/monero-ecosystem.github.io/tree/master/category)
 - `image` needs a absolute link. e.g., your repo's raw image url or other image host url.
-- `tags` please check [tags list](https://monero-ecosystem.github.io/tags/) first. Follow existing tag if suitable.
+- Use maintainer's name as first tag in `tags`. Please check [tags list](https://monero-ecosystem.github.io/tags/) first. Follow existing tag if suitable.
