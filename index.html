@@ -4,7 +4,11 @@ layout: default
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <img class="img-home" src="{{site.baseurl}}/assets/img/blog-image.png" alt="Monero Ecosystem logo">
-    <div class="text-center" style="margin: 2rem;"><h2><a style="text-decoration: none;color: #808080;" href="/join-us/index.html">Have awesome Monero project to join?</a></h2></div>
+    <div class="introduction">
+     <p>The Monero Ecosystem is a collection of projects maintained by members of the Monero Community.<br>
+     Our goal is to have active and high quality Monero projects in one single ecosystem, easy to browse and find.</p> 
+     <p>We have libraries, guides, designs, workgroups and much more. See the complete list below.</p>
+     <h2 class="boxed-link"><a style="text-decoration: none; color: #f2541b" href="/join-us/index.html">Learn more about the Ecosystem and add your project!</a></h2></div>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
