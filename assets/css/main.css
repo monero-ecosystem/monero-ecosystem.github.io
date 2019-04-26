@@ -227,8 +227,20 @@ h4 {
     font-style: normal
 }
 
+.boxed-link a:hover {
+    border: 1px solid;
+    padding: .313rem .625rem;
+    border-radius: 3px;   
+}
+    
+.introduction {
+    text-align: center;
+    margin: 0 6rem 3rem;
+    color: #808080;
+}
+
 .text-center {
-    text-align: center
+    text-align: center; 
 }
 
 .icons-home {
