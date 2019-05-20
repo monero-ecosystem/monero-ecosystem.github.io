@@ -9,6 +9,7 @@ maintainer: 'omani'
 maintainer_uid: '3346207'
 main-class: 'utility'
 tags:
+- HAH! Sun
 - wallet
 - daemon
 - RPC
