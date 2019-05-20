@@ -9,10 +9,9 @@ maintainer: 'omani'
 maintainer_uid: '3346207'
 main-class: 'utility'
 tags:
-- HAH! Sun
-- golang
 - monero
 - RPC
+- golang
 image: 'https://github.com/monero-ecosystem/go-monero-rpc-client/raw/master/media/img/monero_gopher.png'
 ---
 
