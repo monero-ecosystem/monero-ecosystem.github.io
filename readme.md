@@ -8,11 +8,11 @@ This repo keep the files for GitHub Page of [Monero Ecosystem](https://monero-ec
 
 ## How do I create a project post for my repo?
 
-That's easy! As long as your repo is one of the Monero Ecosystem project, feel free to fork repo and put your formatted markdown file in the [\_post folder](https://github.com/monero-ecosystem/monero-ecosystem.github.io/tree/master/_posts). If everything works as you expected, push a pull request. Then your post will show up on the page after merge.
+That's easy! As long as your repo is one of the Monero Ecosystem project, feel free to fork repo and put your formatted markdown file in the [\_posts folder](https://github.com/monero-ecosystem/monero-ecosystem.github.io/tree/master/_posts). If everything works as you expected, push a pull request. Then your post will show up on the page after merge.
 
 ## What's the formatted markdown file?
 
-There is the exameple, you could also take [existing files as example](https://github.com/monero-ecosystem/monero-ecosystem.github.io/tree/master/_posts).
+You can follow the format below, or check out [existing files as examples](https://github.com/monero-ecosystem/monero-ecosystem.github.io/tree/master/_posts).
 
 ```
 ---
@@ -31,7 +31,7 @@ tags:
 - meta
 ---
 
-## Then yoour markdown content start here
+## Then your markdown content start here
 
 [what's markdown?](https://guides.github.com/features/mastering-markdown/)
 
@@ -47,4 +47,5 @@ tags:
 - You can find your `maintainer_uid` [here](https://caius.github.io/github_id/). This is for showing you avatars in the post.
 - All the avaliable `main-class` are in the [category](https://github.com/monero-ecosystem/monero-ecosystem.github.io/tree/master/category)
 - `image` needs a absolute link. e.g., your repo's raw image url or other image host url.
-- Use maintainer's name as first tag in `tags`. Please check [tags list](https://monero-ecosystem.github.io/tags/) first. Follow existing tag if suitable.
+ Use maintainer's name as first tag in `tags`. Please check [tags list](https://monero-ecosystem.github.io/tags/) first. Follow existing tag if suitable.
+ ```
