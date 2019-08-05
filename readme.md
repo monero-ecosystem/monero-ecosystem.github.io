@@ -25,7 +25,7 @@ date: 2018-04-10 00:00:00
 maintainer: 'erciccione'
 maintainer_uid: '28106476'
 main-class: 'misc'
-image: 'https://github.com/monero-ecosystem/monero-ecosystem.github.io/blob/master/assets/img/blog-image.png'
+image: 'https://raw.githubusercontent.com/monero-ecosystem/monero-ecosystem.github.io/master/assets/img/blog-image.png'
 tags:
 - erciccione
 - meta
@@ -46,6 +46,5 @@ tags:
 - `maintainer` needs accurate name, the same as it in the url.
 - You can find your `maintainer_uid` [here](https://caius.github.io/github_id/). This is for showing you avatars in the post.
 - All the avaliable `main-class` are in the [category](https://github.com/monero-ecosystem/monero-ecosystem.github.io/tree/master/category)
-- `image` needs a absolute link. e.g., your repo's raw image url or other image host url.
+- `image` is optional. It should be an absolute link when providing. e.g., your repo's raw image url or other image host url.
 - Use maintainer's name as first tag in `tags`. Please check [tags list](https://monero-ecosystem.github.io/tags/) first. Follow existing tag if suitable.
- ```
