@@ -37,7 +37,7 @@ I welcome all contributions to the original source-code.
 Want to help?
 =============
 
-I did not ask for funding to before creating this library. This is a passion-project of mine, as I'd like to see Monero succeed.
+I did not ask for funding from the Monero community before creating this library. This is a passion-project of mine, as I'd like to see Monero succeed.
 If you found this library helpful, donations are appreciated. 
 
 ``89CkXKw3MQLXAinJz2eb8ohmGdDasGxun65ArenNuqXFfDSVbhiqpte4E2PQaxT4yPbsNSXkT4hR2QMFYQneZfBoCX19Wx2``
