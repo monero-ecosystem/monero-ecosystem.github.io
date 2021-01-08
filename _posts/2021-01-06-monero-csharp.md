@@ -3,7 +3,7 @@ layout: post
 title: 'C# Monero RPC Client'
 repo_name: 'csharp-monero-rpc-client'
 description: 'A C# library for using Monero, built on .netstandard2.1.'
-introduction: 'A C# library for creating Monero applications. Contains a wallet and daemon client to interface with Monero's JSON-RPC API'
+introduction: "A C# library for creating Monero applications. Contains a wallet and daemon client to interface with Monero's JSON-RPC API"
 date: 2021-01-06 00:00:00
 maintainer: 'agorist-action'
 maintainer_uid: '74153025'
